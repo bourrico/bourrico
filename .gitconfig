@@ -1,0 +1,9 @@
+[user]
+email = bourricos.games@gmail.com
+name = bourrico
+ 
+[github]
+user = bourrico
+ 
+[core]
+sshCommand = “ssh -i ~/.ssh/id_rsa_bourrico”
